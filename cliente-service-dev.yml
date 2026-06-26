@@ -8,3 +8,6 @@ spring:
     url: jdbc:mysql://localhost:3306/bd_cliente_dev
     username: root
     password:
+
+simulacion:
+  demora-ms: 5000
