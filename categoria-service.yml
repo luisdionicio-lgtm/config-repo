@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: categoria-service
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+mensaje:
+  texto: Configuracion obtenida desde Config Server para Categoria Service
